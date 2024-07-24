@@ -69,10 +69,14 @@ Below is a screenshot of my **FASTAPI** runing successfully in my docker desktop
 
 ![D2](https://github.com/user-attachments/assets/28764afc-1f49-4c0d-b28a-baffec5e5c48)
 
+
+
 ## STREAMLIT APP PREDICTED RESULTS
 Below is an interface of predicted results in streamlit.
 
 ![D4](https://github.com/user-attachments/assets/706cae96-29f4-44c3-8f2a-0c048296a3fd)
+
+
 
 
 ## Author
